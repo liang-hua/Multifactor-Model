@@ -1,2 +1,2 @@
 # finance-code
-#Alphanomocs
+#Alphanomics
